@@ -1,0 +1,1 @@
+var json_2000_3 = {"type":"FeatureCollection","name":"2000_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"2000","Name":"KFC","Year":"2010"},"geometry":{"type":"Point","coordinates":[22.466190746560507,-33.958578617206904]}}]}
